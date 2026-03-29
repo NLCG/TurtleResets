@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: TurtleResets
+## Notes: Track raid resets with exact dates. Support EN/FR/DE/ES.
+## SavedVariables: TurtleResetsDB
+Locals.lua
+TurtleResets.lua
